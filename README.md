@@ -82,5 +82,11 @@
 </a>
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c2bbfd8-1849-4b80-acba-68356b086d48" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d669ea6a-f62b-4141-ba9d-91336de4bbae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align="center">
+  <a href="https://www.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48">
+    <img src="https://images.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48/image.png" width="150" />
+  </a>
+  <a href="https://www.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae">
+    <img src="https://images.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae/image.png" width="150" />
+  </a>
+</div>
