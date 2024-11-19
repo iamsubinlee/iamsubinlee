@@ -71,6 +71,25 @@
   </a>
 </div>
 
+<h3 align="center">🪪 Certification 🪪</h3>
+<div align="center">
+  <a href="https://www.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48">
+    <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="200" />
+  </a>
+  <a href="https://www.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae">
+    <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="200" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/ko-kr/68367481/E3F836D08AE1D90B?sharingId=CC72276B36CF82E0">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="200" />
+  </a>
+  <a href="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" width="200" />
+  </a>
+</div>
+
 <br>
 <br>
 <div align="center">
@@ -80,13 +99,4 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=iamsubinlee&show_icons=true&theme=tokyonight" width="42%" />
 </a>
-</div>
-
-<div align="center">
-  <a href="https://www.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48">
-    <img src="https://images.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48/image.png" width="150" />
-  </a>
-  <a href="https://www.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae">
-    <img src="https://images.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae/image.png" width="150" />
-  </a>
 </div>
