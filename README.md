@@ -81,3 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iamsubinlee&show_icons=true&theme=tokyonight" width="42%" />
 </a>
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1c2bbfd8-1849-4b80-acba-68356b086d48" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d669ea6a-f62b-4141-ba9d-91336de4bbae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
