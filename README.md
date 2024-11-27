@@ -74,9 +74,9 @@
 <h3 align="center">🪪 Certification 🪪</h3>
 <div align="center">
   <a href="https://www.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48">
-    <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="200" />
+    <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="200" />
   </a>
-  <a href="https://www.credly.com/badges/d669ea6a-f62b-4141-ba9d-91336de4bbae">
+  <a href="https://www.credly.com/earner/earned/badge/d669ea6a-f62b-4141-ba9d-91336de4bbae">
     <img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="200" />
   </a>
 </div>
