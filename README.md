@@ -59,18 +59,6 @@
 </div>
 
 <br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.tangunsoft.com">
-    <img src="https://img.shields.io/badge/tangunsoft-23285A?style=for-the-badge&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:sblee@tangunsoft.com">
-    <img
-      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>&nbsp
-  </a>
-</div>
-
 <h3 align="center">🪪 Certification 🪪</h3>
 <div align="center">
   <a href="https://www.credly.com/badges/1c2bbfd8-1849-4b80-acba-68356b086d48">
@@ -87,6 +75,17 @@
   </a>
   <a href="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" width="200" />
+  </a>
+</div>
+
+<br><h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://www.tangunsoft.com">
+    <img src="https://img.shields.io/badge/tangunsoft-23285A?style=for-the-badge&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:sblee@tangunsoft.com">
+    <img
+      src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>&nbsp
   </a>
 </div>
 
